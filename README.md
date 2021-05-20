@@ -1,2 +1,2 @@
 # Rotor_Cipher
-Encrypt and Decrypt messages
+Encrypt and Decrypt messages!
