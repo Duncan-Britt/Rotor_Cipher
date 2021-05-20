@@ -1,2 +1,2 @@
-# Enigma_Emulator
-Not intended to be a precise replica
+# Rotor_Cipher
+Encrypt and Decrypt messages
