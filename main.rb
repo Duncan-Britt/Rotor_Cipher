@@ -1,4 +1,4 @@
-class Crypt
+class RotorCipher
   ALPHABET_SIZE = 26
 
   def decrypt(str)
@@ -92,7 +92,7 @@ end
 
 puts "Enter Rotor Settings:"
 setting = gets.chomp
-code = Crypt.new(setting[0], setting[1], setting[2])
+code = RotorCipher.new(setting[0], setting[1], setting[2])
 puts "Enter message"
 message = gets.chomp
 puts "Encrypt or Decrypt? (e/d)"
